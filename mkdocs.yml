@@ -2,6 +2,7 @@ site_name: SwiftWing S6 Vtol 文档
 site_description: SwiftWing S6 Vtol 飞行器用户手册与开发指南
 site_author: SwiftWing 团队
 site_url: https://swiftwing001.github.io/SwiftWing-S6-Vtol-Tutorial/
+copyright: Copyright © 2026 深圳市牧空创新科技有限公司
 
 theme:
   name: readthedocs
@@ -14,7 +15,8 @@ nav:
     - 飞行场地准备: 快速上手/飞行场地准备.md  
     - 电池充电: 快速上手/电池充电.md  
     - 遥控器充电: 快速上手/遥控器充电.md  
-    - 飞控教程: 快速上手/飞控教程.md  
+    - 准备通信链路（无线连接）: 快速上手/准备通信链路（无线连接）.md  
+    - 准备通信链路（有线连接）: 快速上手/准备通讯链路（有线连接）.md  
     - APM飞控教程: 快速上手/APM飞控教程.md  
     - PX4飞控教程: 快速上手/PX4飞控教程.md  
     - 起飞前地面测试: 快速上手/起飞前地面测试.md  
